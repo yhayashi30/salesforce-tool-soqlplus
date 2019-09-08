@@ -1,9 +1,9 @@
-# A Simple Python Script for SOQL Excecution
+## A Simple Python Script for SOQL Excecution
 
 ### Prepare config.ini
-username = <UserName>
-password = <Password>
-organizationId = <OrganizationID>
+username = *UserName*  
+password = *Password*  
+organizationId = *OrganizationID*  
 
 #### Run Script
 
